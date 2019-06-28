@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import  { RouterModule } from '@angular/router';
+import  { Routes, RouterModule } from '@angular/router';
 import { IndexComponent } from './pages/index/index.component';
 import { BrandComponent } from './pages/brand/brand.component';
 
